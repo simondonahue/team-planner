@@ -4,6 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Plan your Uma Musume Team Trials lineup. View ratings, filter by distance and style, and build optimal teams.">
+    <meta name="theme-color" content="#0f172a">
+    
+    <!-- Open Graph (Facebook, Discord, etc.) -->
+    <meta property="og:title" content="UmaPlanner">
+    <meta property="og:description" content="Plan your Uma Musume Team Trials lineup. View ratings and build optimal teams.">
+    <meta property="og:image" content="/android-chrome-512x512.png">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="UmaPlanner">
+    <meta name="twitter:description" content="Plan your Uma Musume Team Trials lineup">
+    
     <title>UmaPlanner</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -21,7 +35,7 @@
         <header>
             <h1>UmaPlanner</h1>
             <div class="search-bar">
-                <input type="text" id="search-input" placeholder="Search Uma...">
+                <input type="text" id="search-input" placeholder="Search Uma..." aria-label="Search Uma characters">
             </div>
         </header>
 
@@ -166,6 +180,15 @@
             </table>
         </div>
     </div>
+    
+    <footer>
+        <p>&copy; 2025 UmaPlanner | <a href="https://github.com/simondonahue/team-planner" target="_blank" rel="noopener">GitHub</a></p>
+    </footer>
+    
+    <noscript>
+        <p style="text-align: center; padding: 2rem; color: #f8fafc;">JavaScript is required to use UmaPlanner.</p>
+    </noscript>
+    
     <script src="script.js"></script>
 </body>
 
