@@ -443,7 +443,69 @@ tr.owned td {
 .style-pace-chaser { background: rgba(34, 197, 94, 0.3); color: #86efac; }
 .style-late-surger { background: rgba(59, 130, 246, 0.3); color: #93c5fd; }
 .style-end-closer { background: rgba(168, 85, 247, 0.3); color: #d8b4fe; }
-.style-unknown { background: rgba(100, 116, 139, 0.3); color: #cbd5e1; }
+.style-unknown { background: rgba(100, 116, 139, 0.3); color: #cbd5e1; cursor: pointer; }
+
+/* Style Selector Dropdown */
+.style-selector {
+    position: relative;
+    display: inline-block;
+    margin-left: 0.5rem;
+}
+
+.style-selector .slot-style {
+    margin-left: 0;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.style-selector .slot-style:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.2);
+}
+
+.style-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 4px;
+    background: #1e293b;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+    padding: 4px;
+    z-index: 100;
+    min-width: 140px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.style-selector.open .style-dropdown {
+    display: block;
+}
+
+.style-option {
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    font-weight: 600;
+    transition: background 0.15s;
+    white-space: nowrap;
+}
+
+.style-option:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.style-option.selected {
+    background: rgba(56, 189, 248, 0.2);
+    color: var(--accent);
+}
+
+.style-option[data-style="Front Runner"] { color: #fca5a5; }
+.style-option[data-style="Pace Chaser"] { color: #86efac; }
+.style-option[data-style="Late Surger"] { color: #93c5fd; }
+.style-option[data-style="End Closer"] { color: #d8b4fe; }
 
 .style-summary {
     display: flex;

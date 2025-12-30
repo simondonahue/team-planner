@@ -1,6 +1,7 @@
 let mergedData = [];
 let ownedUmas = JSON.parse(localStorage.getItem('ownedUmas') || '{}');
 let teamSelection = JSON.parse(localStorage.getItem('teamSelection') || '{"Sprint":[], "Mile":[], "Medium":[], "Long":[], "Dirt":[]}');
+let styleOverrides = JSON.parse(localStorage.getItem('styleOverrides') || '{}');
 
 async function loadData() {
     try {
@@ -234,6 +235,8 @@ function getStyleClass(style) {
 
 function renderTeam() {
     const categories = ['Sprint', 'Mile', 'Medium', 'Long', 'Dirt'];
+    const allStyles = ['Front Runner', 'Pace Chaser', 'Late Surger', 'End Closer'];
+    
     categories.forEach(cat => {
         const container = document.getElementById(`slots-${cat}`);
         container.innerHTML = '';
@@ -245,20 +248,28 @@ function renderTeam() {
             const slot = document.createElement('div');
             slot.className = 'team-slot';
             if (slots[i]) {
-                const umaData = getUmaData(slots[i]);
-                const style = umaData?.trials?.style || umaData?.innate_style?.[0] || null;
-                const styleAbbrev = getStyleAbbrev(style);
-                const styleClass = getStyleClass(style);
+                const umaName = slots[i];
+                const style = styleOverrides[umaName] || null;
+                const styleAbbrev = style ? getStyleAbbrev(style) : '?';
+                const styleClass = style ? getStyleClass(style) : 'style-unknown';
                 
                 // Count styles for summary
                 if (style) {
                     styleCounts[style] = (styleCounts[style] || 0) + 1;
                 }
                 
+                // Build dropdown options
+                const dropdownOptions = allStyles.map(s => 
+                    `<div class="style-option ${s === style ? 'selected' : ''}" data-style="${s}" data-uma="${umaName.replace(/"/g, '&quot;')}">${getStyleAbbrev(s)} - ${s}</div>`
+                ).join('');
+                
                 slot.innerHTML = `
                     <span class="remove-btn" onclick="removeFromTeam('${cat}', ${i})">×</span>
-                    <strong>${slots[i]}</strong>
-                    <span class="slot-style ${styleClass}">${styleAbbrev}</span>
+                    <strong>${umaName}</strong>
+                    <div class="style-selector">
+                        <span class="slot-style ${styleClass}" data-uma="${umaName.replace(/"/g, '&quot;')}">${styleAbbrev}</span>
+                        <div class="style-dropdown">${dropdownOptions}</div>
+                    </div>
                 `;
                 slot.classList.add('filled');
             } else {
@@ -285,7 +296,46 @@ function renderTeam() {
             summaryEl.innerHTML = '';
         }
     });
+    
+    // Add click listeners for style selectors
+    document.querySelectorAll('.style-selector .slot-style').forEach(badge => {
+        badge.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const selector = badge.closest('.style-selector');
+            const wasOpen = selector.classList.contains('open');
+            
+            // Close all other dropdowns
+            document.querySelectorAll('.style-selector.open').forEach(s => s.classList.remove('open'));
+            
+            if (!wasOpen) {
+                selector.classList.add('open');
+            }
+        });
+    });
+    
+    // Add click listeners for style options
+    document.querySelectorAll('.style-option').forEach(option => {
+        option.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const style = option.dataset.style;
+            const umaName = option.dataset.uma;
+            
+            styleOverrides[umaName] = style;
+            localStorage.setItem('styleOverrides', JSON.stringify(styleOverrides));
+            
+            // Close dropdown and re-render
+            document.querySelectorAll('.style-selector.open').forEach(s => s.classList.remove('open'));
+            renderTeam();
+        });
+    });
 }
+
+// Close style dropdowns when clicking outside
+document.addEventListener('click', (e) => {
+    if (!e.target.closest('.style-selector')) {
+        document.querySelectorAll('.style-selector.open').forEach(s => s.classList.remove('open'));
+    }
+});
 
 function addToTeam(name, category) {
     if (!category) return;
@@ -567,7 +617,8 @@ document.getElementById('clear-filters').addEventListener('click', () => {
 function exportData() {
     const data = {
         ownedUmas: ownedUmas,
-        teamSelection: teamSelection
+        teamSelection: teamSelection,
+        styleOverrides: styleOverrides
     };
     const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
@@ -596,6 +647,10 @@ function importData() {
                 if (data.teamSelection) {
                     teamSelection = data.teamSelection;
                     localStorage.setItem('teamSelection', JSON.stringify(teamSelection));
+                }
+                if (data.styleOverrides) {
+                    styleOverrides = data.styleOverrides;
+                    localStorage.setItem('styleOverrides', JSON.stringify(styleOverrides));
                 }
                 renderTable(mergedData);
                 renderTeam();
