@@ -1,6 +1,6 @@
-# UMA Ratings Viewer & Team Planner
+# UmaPlanner
 
-A premium, standalone web application for viewing UMA Musume ratings, reviews, and planning your team compositions.
+A web application for viewing UMA Musume ratings, reviews, and planning your Team Trials compositions.
 
 ## Project Structure
 
