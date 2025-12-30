@@ -1,0 +1,3538 @@
+[
+    {
+        "name": "Agnes Digital",
+        "base_name": "Agnes Digital",
+        "variant": "Original",
+        "description": null,
+        "innate_distance": [
+            "Dirt"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "5",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Agnes Tachyon",
+        "base_name": "Agnes Tachyon",
+        "variant": "Original",
+        "description": "Tachyon isn\u2019t used universally as a parent, but on some tracks, her unique is used by Christmas Oguri as a fourth heal, which improves her consistency. For Team Trials, her debuff evolves into a perfectly consistent skill, but before that it doesn\u2019t fit with her Pace Chaser role. Her heal and unique are both consistent enough. Having a unique heal and a gold heal means you get to skimp on Stamina while training her. However, she\u2019s not amazing in a CM context, her best track being Kyoto 2200m.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": "Late Surger",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Medium",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Speed",
+            "effect": "-0.25",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Air Groove",
+        "base_name": "Air Groove",
+        "variant": "Original",
+        "description": "Air Groove\u2019s awakenings and unique don\u2019t quite match. Her unique requires her to be 4th or worse and pass someone, which is hard for a Team Trials Pace Chaser, but she has a Pace Chaser gold. It\u2019s better to make her a Late Surger, since uniques are worth two golds. In CM, she has nothing going for her over other umas, but she does come with two End Closer debuffs. She\u2019s a low-effort option if you want to debuff End Closers.",
+        "innate_distance": [
+            "Sprint"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": "Pace Chaser",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4 / 3",
+            "distance": null,
+            "style": "Late Surger / Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "1",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Air Groove [Wedding]",
+        "base_name": "Air Groove",
+        "variant": "Wedding",
+        "description": "Wedding Groove is a solidly strong Leader after the first anniversary buffs. When Taiki/Nishino are viable uniques to inherit for a Mile CM, Wedding Groove is one of the best ones to take advantage of them thanks to her midleg speed unique and gold. Before her buff, she\u2019s extremely bad.",
+        "innate_distance": [
+            "Mile"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Mile",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Biwa Hayahide",
+        "base_name": "Biwa Hayahide",
+        "variant": "Original",
+        "description": "Biwa\u2019s similar to Super Creek. She has an insane amount of recovery, almost three golds worth with both her evolutions, and everything is consistent for Team Trials. However, she has nothing exciting in her kit for CM except maybe carryover on her unique in Tennosho Fall.",
+        "innate_distance": [
+            "Long",
+            "Medium"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": "Long",
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Long",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Curren Chan",
+        "base_name": "Curren Chan",
+        "variant": "Original",
+        "description": "Curren is a gambler in Sprints. If her unique triggers late enough to bring the accel into the spurt, she\u2019s pretty strong. However, Sprint CMs tend to be dominated by Front Runners and End Closers, so she\u2019s not quite meta. She\u2019s probably good in Team Trials, her golds are consistent and her unique should trigger most of the time.",
+        "innate_distance": [
+            "Sprint"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "2",
+            "style": "Front Runner",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Sprint",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Speed",
+            "effect": "-0.25",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Daiwa Scarlet",
+        "base_name": "Daiwa Scarlet",
+        "variant": "Original",
+        "description": "Daiwa\u2019s unique has accel on it, which is always a sign that you should look to see if you can take advantage of it. Early on in the JP server, she used to be known as the \u201cDaiwa Rocket\u201d in Medium. She triggers Killer Tunes, gains speed, and that triggers her unique, which makes her accel, ideally near the start of the spurt. If it\u2019s a bad track for Front Runners, she can be a Pace Chaser. She\u2019s a great F2P option in Medium CMs. For Team Trials, her unique is much more consistent as a Front Runner, so just make her a Front Runner and ignore her heal.",
+        "innate_distance": [
+            "Mile"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "2",
+            "style": "Pace Chaser",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": "Medium",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": "Pace Chaser",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "2",
+            "style": "Pace Chaser",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Medium",
+            "style": "Front Runner"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "4",
+                "distance": null
+            },
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Eishin Flash",
+        "base_name": "Eishin Flash",
+        "variant": "Original",
+        "description": "Eishin has been bullied by recent scenarios. In Grand Live, you get Magician of the Lane for free, and in Grandmasters, you get Heart and Soul for free. She\u2019ll often have a duplicated gold, making her less ideal for Stadium training. For CM, she has nothing special.",
+        "innate_distance": [],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "El Condor Pasa",
+        "base_name": "El Condor Pasa",
+        "variant": "Original",
+        "description": "Pasa is a really weird uma. Her unique is great for CM Front Runners when the spurt starts on or near the final straight. However, she has Front Runner E, so it\u2019s really difficult to raise her for that herself. She\u2019s usually relegated to a parent for that reason, but she can get lucky as a Pace Chaser if there are few or no Front Runners. In Team Trials, she\u2019s generally used for Dirt due to the lack of umas for that, but she has a Medium gold. But, in Medium, she needs more Stamina so she can use her unique, and her unique will only work if she\u2019s actually winning. Just use her as a Dirt uma until you get someone better.",
+        "innate_distance": [
+            "Mile",
+            "Dirt"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": "Medium",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": "Medium",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Dirt",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "4",
+                "distance": null
+            },
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "El Condor Pasa [Fantasy]",
+        "base_name": "El Condor Pasa",
+        "variant": "Fantasy",
+        "description": "Fantasy Pasa gets accel when trying to overtake someone on the final corner. So, when the last spurt is on the final corner, she can luck into some accel. You\u2019ll most likely want to pair her with speed skills that trigger on the final corner to trigger overtake mode, though most such skills are for Pace Chasers. Her unique can be inherited for accel purposes, but there\u2019s generally going to be better options. Both her golds are a little inconsistent in Team Trials, especially Furious Feat, but Furious Feat can be used as another gambling skill in Mile CM.",
+        "innate_distance": [
+            "Mile",
+            "Dirt"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": "Mile",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Fuji Kiseki",
+        "base_name": "Fuji Kiseki",
+        "variant": "Original",
+        "description": "Fuji is basically a clone of Oguri. She has a similar unique, a Pace heal, and a gold Mile speed skill instead of a generic gold accel skill. You can use her in Mile CMs if you want. Her unique is 0.25 when inherited, making it quite good.",
+        "innate_distance": [
+            "Mile"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Mile",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Gold City",
+        "base_name": "Gold City",
+        "variant": "Original",
+        "description": "Gold City is a gambling uma, similar to Curren Chan. If she starts trying to overtake someone late in the middle leg, her unique will trigger and let her carry accel into the spurt. You\u2019ll want to pair her with skills that trigger around there, which vary based on the track. She can further gamble with her built-in Switch-up Pro. Her gold heal later becomes a speed debuff, but if you want a Mile speed debuffer, you\u2019ll usually just use Grass Wonder and get that gold heal from the Gold City card. Also, note that every race you do after Tennosho Spring on Gold City will give you all stats and extra SP. This can let you get much higher SP counts, allowing you to buy a ton of skills for Team Trials.",
+        "innate_distance": [
+            "Mile"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Speed",
+            "effect": "-0.2",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Gold City [Autumn Festival]",
+        "base_name": "Gold City",
+        "variant": "Autumn Festival",
+        "description": "Fes City is the only acceleration debuffer in the game currently, but doesn\u2019t come into relevance until the Gold Ship Summer alt. Outside of Mile, you can 564 her debuff and sometimes hit people as they\u2019re entering spurt, causing a massive decrease in their speed. This is extremely potent, but doesn\u2019t work every race. Still, you can bring her along if you want to gamble some wins. As a racer, she\u2019s not very good. Her unique is a final corner \u201cblocked_side\u201d unique, which is very difficult to trigger after the first anni change to make umas spread on the final corner. Also, note that every race you do after Tennosho Haru on Gold City will give you all stats and extra SP. This can let you get SP counts above 5000, allowing you to buy a ton of skills for Team Trials.",
+        "innate_distance": [
+            "Mile"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Acceleration",
+            "effect": "-0.3",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Gold Ship",
+        "base_name": "Gold Ship",
+        "variant": "Original",
+        "description": "Gold Ship is a good baseline End Closer. When End Closers are good, she\u2019s a fine option to bring, but she\u2019ll always be outclassed by at least one other End Closer. Early on, that\u2019s Narita Taishin. Her vision buff is a consistent gold for Team Trials but does nothing in CM, as always with vision skills. Downhills for her recovery happen more in Medium Team Trials (68%) than in 2500~2600 Long Team Trials (57%).",
+        "innate_distance": [
+            "Long"
+        ],
+        "innate_style": [
+            "End Closer"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Long/Medium",
+            "style": "End Closer"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "End Closer",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Grass Wonder",
+        "base_name": "Grass Wonder",
+        "variant": "Original",
+        "description": "Grass Wonder is generally used as a combination Speed Debuffer and Gambler in CM. With her built-in On Your Left!, she can sometimes get lucky and steal a win. On the races she doesn\u2019t get lucky, Monopolizer slows down the enemies to help your other umas win. In Team Trials, On Your Left! can be a bit inconsistent, but her Monopolizer evolution is perfectly consistent.",
+        "innate_distance": [
+            "Mile",
+            "Medium"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Medium",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Speed",
+            "effect": "-0.25",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Grass Wonder [Fantasy]",
+        "base_name": "Grass Wonder",
+        "variant": "Fantasy",
+        "description": "Healer Grass is called Healer Grass because she heals. Her kit has the equivalent of more than 3 Gold heals, and with both golds being buffed on second anni, they\u2019re all good and consistent. In CM, her lack of any other tools beyond healing makes her a poor performer, and by the time there are acceleration options in Long for Lates, Sakura Laurel is released and overshadows her. Her unique is also a 0.35 heal when inherited, which is generally one of the best options for Long Lates and Ends, as they don\u2019t have access to Ryan and Dober on most Long tracks.",
+        "innate_distance": [
+            "Long"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Long",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Haru Urara",
+        "base_name": "Haru Urara",
+        "variant": "Original",
+        "description": "Urara is full of recoveries. Since Dirt Team Trials is all Mile, and she has Medium G anyway, they\u2019re not very useful. However, they are fairly consistent, and for free-to-play players, she\u2019s one of the only options for Dirt Team Trials. You can make her an End Closer if you want her unique to be a bit more consistent, maybe. Her unique isn\u2019t normally something you want to inherit, however, there are some edge cases where you can inherit it on a Late Surger/End Closer Christmas Oguri. She\u2019s also sometimes used for weird strategies that involve having one very bad uma due to her bad aptitudes.",
+        "innate_distance": [
+            "Dirt"
+        ],
+        "innate_style": [
+            "Late Surger",
+            "End Closer"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Dirt",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "1",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Hishi Akebono",
+        "base_name": "Hishi Akebono",
+        "variant": "Original",
+        "description": "Akebono is a solid Sprint Pace Chaser. Her unique is a mid leg speed unique if you don\u2019t do anything special, which is pretty good. You can stack Stamina on her to make her unique trigger later and get the acceleration from it into the spurt, but it takes like 1000 Stamina with heals to do that. Generally it\u2019s not worth it, but it\u2019s a fun meme strategy.",
+        "innate_distance": [
+            "Sprint"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Sprint",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Hishi Amazon",
+        "base_name": "Hishi Amazon",
+        "variant": "Original",
+        "description": "Amazon\u2019s unique isn\u2019t consistent for Team Trials, but her golds are. Her first evolved skill can help her trigger her unique and could be good on some tracks like Tennosho Autumn. Storm and Stress is basically Heart and Soul so it\u2019s not very desirable. Having both End Closer Corners and Straights built in is nice. But, overall, one of the worst End Closers in the game.",
+        "innate_distance": [
+            "Mile",
+            "Sprint",
+            "Medium"
+        ],
+        "innate_style": [
+            "End Closer"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": "Medium",
+            "style": "End Closer"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "End Closer",
+                "score": "1",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Kawakami Princess",
+        "base_name": "Kawakami Princess",
+        "variant": "Original",
+        "description": "Aside from coming with No Stopping Me, Kawakami doesn\u2019t have anything special. She\u2019s basically a less flexible Mayano Top Gun. NSM is also not consistent enough for Team Trials and Rising Dragon isn\u2019t fully consistent either. But, an uma with NSM will always have a chance to win.",
+        "innate_distance": [],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "King Halo",
+        "base_name": "King Halo",
+        "variant": "Original",
+        "description": "OG King Halo is an unfortunate uma. Her unique is essentially OG Oguri\u2019s but worse. Her vision gold is consistent but unusable outside of Team Trials. Blinding Flash is inconsistent and weak when Turbo Sprint exists. An uma that\u2019s entirely outclassed. But, might be your only option in early Sprint CMs.",
+        "innate_distance": [
+            "Sprint"
+        ],
+        "innate_style": [
+            "Late Surger",
+            "End Closer"
+        ],
+        "lv2": {
+            "score": "2",
+            "style": "Medium",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": "End Closer",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": null,
+            "track_type": "Mile",
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": "Late Surger",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "2",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Manhattan Cafe",
+        "base_name": "Manhattan Cafe",
+        "variant": "Original",
+        "description": "Cafe is basically an upgrade to Gold Ship. She has a mid leg speed unique and a gold heal. She used to go Chaser, but once the Kris S card exists, she goes Betweener and gets to actually use her heal. There\u2019s a slight concern that her unique will make her run too far forward to trigger Lose Yourself. She\u2019s also incredibly difficult to train due to her aptitudes and 30% Stamina bonus. Her unique can be inherited on Debuffers for an extremely minor speed debuff.",
+        "innate_distance": [
+            "Long"
+        ],
+        "innate_style": [
+            "Late Surger",
+            "End Closer"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Long",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Stamina",
+            "effect": "-1%",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "End Closer",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Maruzensky",
+        "base_name": "Maruzensky",
+        "variant": "Original",
+        "description": "Maruzensky is primarily a parent uma. For Front Runners and Pace Chasers, she\u2019s good for Osaka Hai, Oaks, Japan Derby, and Japan Cup. These are all Medium tracks, so she herself isn\u2019t very good on them, due to having Mile skills. On other final corner tracks, her unique typically triggers too early to do anything, but she can be inherited on Late Surgers/End Closers, who can pass into 5th to trigger it later and get the accel. On such tracks, Dober isn\u2019t a good inherit, so she can replace Dober as a parent. In Team Trials, she has consistent skills and a consistent unique, just don\u2019t evolve Accel Full Throttle. It requires first place when evolved, which isn\u2019t consistent even for Front Runner. Her inherited unique is also very consistent for all styles and can be inherited on anyone in Team Trials for points.",
+        "innate_distance": [
+            "Mile",
+            "Dirt"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Mile",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Maruzensky [Summer]",
+        "base_name": "Maruzensky",
+        "variant": "Summer",
+        "description": "Summer Maruzensky is the benchmark for Runner umas. She has a gold heal and a midleg speed unique. She used to be the best, but became outclassed with Valentines Bourbon\u2019s release. These days, Runners usually come with either Fortune or Groundwork, while S.Maru has neither, making her difficult to raise. Her unique is good to inherit on other Runners when there aren\u2019t two mandatory parents. In Stadium, hills in Mile aren\u2019t always there, so her gold recovery often won\u2019t trigger. Make sure you have a backup heal.",
+        "innate_distance": [
+            "Mile",
+            "Medium"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Mile",
+            "style": "Front Runner"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Matikanefukukitaru",
+        "base_name": "Matikanefukukitaru",
+        "variant": "Original",
+        "description": "Fuku\u2019s unique is more consistent in longer tracks. However, she has no built-in gold heals, so it\u2019s harder to build her for them. Her long gold is consistent but her green gold is anything but. In CM, it triggers 1/9 times, and in Team Trials, it triggers 1/12 times.",
+        "innate_distance": [
+            "Long"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Long",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "1",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Matikanefukukitaru [Full Armor]",
+        "base_name": "Matikanefukukitaru",
+        "variant": "Full Armor",
+        "description": "Back when End Closers were the meta in Long tracks, FA Fuku had her uses. When the End Closers moved forward in mid leg, they would trigger her unique and make her run faster. Once Late Surgers are equal to or greater than End Closers in Long, this is less ideal, but she\u2019s still quite good. Her lack of heals makes her a bit hard to train for Long as well.",
+        "innate_distance": [
+            "Long"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Long",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Mayano Top Gun",
+        "base_name": "Mayano Top Gun",
+        "variant": "Original",
+        "description": "Mayano receives a second paragraph to talk about her events. Her Shapeshifter event (win a G1 as each style) even gives her a good accel for every style, but isn\u2019t added until later. She also gets Fast Learner guaranteed if she has 500+ Wit when \u201cMaya\u2019s Love Advice?!\u201d triggers, making her appealing for chasing high scores. Normally, getting Fast Learner on a run is like a 4% chance (outside of the MANT scenario). You can just quit your Mayano runs when they hit that event early and try again, once you\u2019re able to do Wit builds (or inherit it).",
+        "innate_distance": [
+            "Long",
+            "Medium"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": null,
+            "style": "Front Runner/Pace Chaser"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Anything",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Mayano Top Gun [Wedding]",
+        "base_name": "Mayano Top Gun",
+        "variant": "Wedding",
+        "description": "Wedding Mayano can gamble with her unique as a backliner. If she passes at the right time, and the track\u2019s spurt starts on the final corner, she\u2019ll get a bunch of accel. She\u2019s also the second best option for a Stamina Debuffer after Nice Nature, as Mystifying Murmur is the best Stamina debuff. Though, it\u2019s not consistent in Team Trials. Sometimes, she gets built as a hybrid uma, with enough stats to win but also carrying debuffs. Seeing her win in CM even as a debuffer happens surprisingly often.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Not-Front"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Medium",
+            "style": "End Closer"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Stamina",
+            "effect": "-3%",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            },
+            {
+                "type": "Late Surger",
+                "score": "4",
+                "distance": null
+            },
+            {
+                "type": "End Closer",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Meisho Doto",
+        "base_name": "Meisho Doto",
+        "variant": "Original",
+        "description": "Doto gets acceleration when she passes someone in the final leg or beyond. So, if she gets lucky, she can zoom. It\u2019s not consistent though, so she\u2019s just a gambling uma. Everything is consistent enough in Team Trials.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Medium",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Mejiro Dober",
+        "base_name": "Mejiro Dober",
+        "variant": "Original",
+        "description": "Dober\u2019s unique is mandatory on Late Surgers and End Closers on many tracks. Ryan\u2019s requires 6th, while Dober\u2019s requires 5th or 6th, making it much more consistent. She herself can be used as either a gambler or a Stamina Debuffer with a chance to win. Her evolved debuff gives her Current Speed which is quite potent if it triggers early, but she has to be 6th or below to trigger it, so it\u2019s not consistent. Her gold green is good for her signature track, Queen Elizabeth Cup. None of her kit is consistent for Team Trials. She\u2019s my favourite uma so let\u2019s just say she\u2019s a 5.",
+        "innate_distance": [],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "1",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Stamina",
+            "effect": "-3%",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Mejiro McQueen",
+        "base_name": "Mejiro McQueen",
+        "variant": "Original",
+        "description": "McQueen received a bit of redemption with her evolutions, but not enough to make her generally good in CM. However, everything is consistent for Team Trials. There is a very specific strategy with McQueen as a Late Surger in CM which is fairly strong. You pair her with Urara or a similar poor performer to make her unique always trigger, and when that results in carrying speed over into the spurt, she becomes quite powerful. Her unique is also pretty good for Long, especially after it gets buffed.",
+        "innate_distance": [
+            "Long",
+            "Medium"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": "Pace Chaser",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": "5",
+            "special_style": "Pace Chaser"
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Long",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "3",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Mejiro McQueen [End of Sky]",
+        "base_name": "Mejiro McQueen",
+        "variant": "End of Sky",
+        "description": "Bird McQueen doesn\u2019t really have anything going for her in CM, but at least she\u2019s consistent in Stadium and has a heal for Long. She\u2019s outclassed when her unique carries over and can\u2019t compete in Long CMs against the meta Pace Chasers or Fronts until her buffs which come much later. Though, after those buffs, she is quite strong.",
+        "innate_distance": [
+            "Long"
+        ],
+        "innate_style": [
+            "Front Runner",
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": null,
+            "distance": null,
+            "style": "Front Runner"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Mejiro Ryan",
+        "base_name": "Mejiro Ryan",
+        "variant": "Original",
+        "description": "Ryan is exclusively used as a parent. On tracks where the spurt starts on a corner, she\u2019s almost always used for all Late Surgers and End Closers. Even though Dober outshines her on some tracks, with two uniques to inherit, it\u2019s usually Ryan + Dober as your parents. Killer Tunes is for Pace Chasers/Front Runners, so it\u2019s not something that helps her. You\u2019d rather run her as a Late Surger for Rising Dragon and the chance of triggering her unique. Though, her unique is way too specific to be consistent in Team Trials (need exactly 8th place).",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "2",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Mihono Bourbon",
+        "base_name": "Mihono Bourbon",
+        "variant": "Original",
+        "description": "Bourbon is outclassed by many Front Runners in a CM context, but in Team Trials, her skills are pretty consistent. You\u2019d want to get Concentration on her to improve her unique\u2019s consistency, or at least Focus. Her unique won\u2019t trigger if she has a bad start, and Concentration prevents those. Having a Medium Distance Recovery built in makes her easy to train. Her Valentine\u2019s alt is arguably the strongest generic Front Runner uma, so look forward to that if you\u2019re a Bourbon fan.",
+        "innate_distance": [
+            "Medium",
+            "Long"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Medium",
+            "style": "Front Runner"
+        },
+        "parent": {
+            "score": "3",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Narita Brian",
+        "base_name": "Narita Brian",
+        "variant": "Original",
+        "description": "Brian has very plain, consistent skills. Just an average uma. After buffs, her unique is pretty strong to inherit on non-Front umas and has some tracks where it\u2019s particularly strong, like Hanshin 1600m.",
+        "innate_distance": [
+            "Medium",
+            "Long"
+        ],
+        "innate_style": [
+            "Late Surger",
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": null,
+            "style": "Pace Chaser/Late Surger"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            },
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Narita Taishin",
+        "base_name": "Narita Taishin",
+        "variant": "Original",
+        "description": "Taishin is the original holder of Encroaching Shadow, one of the strongest End Closer skills. Even after other End Closers outclass her in Long, she remains meta for certain Mile tracks. However, she has a debilitating training event that lowers her mood and gives her Bad Practice that\u2019s a pain to work around sometimes. But after that, there\u2019s an event in Late March that gives her all stats.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "End Closer"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Mile",
+            "style": "End Closer"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "End Closer",
+                "score": "5",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Nice Nature",
+        "base_name": "Nice Nature",
+        "variant": "Original",
+        "description": "Nice Nature is the quintessential Stamina Debuffer, having both important golds. That\u2019s basically her only use in Champions Meeting. See the Debuff Builds section for details. Her evolution skills are both bad, but the All-Seeing Eyes evolution is more consistent for Team Trials. Never gets used as an actual CM racer, even after the evolutions update.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Stamina",
+            "effect": "-6%",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "1",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Oguri Cap",
+        "base_name": "Oguri Cap",
+        "variant": "Original",
+        "description": "Oguri is a great all-rounder uma. She\u2019s decently strong in basically any track, and her unique can be inherited on non-Front Runners for a consistent 0.25 speed. Using Oguri is never a bad choice. In Team Trials, everything is consistent, and you can put her anywhere you need her. Of course, that\u2019s usually Dirt, but if you have Dirt umas and lack Sprint umas, she can fill that. Her great flexibility and good strength is why she\u2019s recommended for the initial pick ticket, even though other umas are sometimes stronger. Her heal is consistent when she\u2019s a Pace Chaser and her acceleration skill can sometimes be used for gambling.",
+        "innate_distance": [
+            "Dirt",
+            "Mile"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": "5",
+            "special_style": "Pace Chaser"
+        },
+        "lv4": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": null,
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "3",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            },
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            },
+            {
+                "type": "End Closer",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Rice Shower",
+        "base_name": "Rice Shower",
+        "variant": "Original",
+        "description": "Rice is a very popular uma, but not a very good one. Her unique and golds are all consistent enough for Long Team Trials though, and since she has a built-in recovery, training her for it isn\u2019t difficult. Her bonuses can sometimes make training painful. She has Determined Descent which is good on some tracks, but the other umas with it are much better, and others can just inherit the white or get the gold from a card.",
+        "innate_distance": [
+            "Long",
+            "Medium"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": "Long",
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Long",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Rice Shower [Halloween]",
+        "base_name": "Rice Shower",
+        "variant": "Halloween",
+        "description": "Halloween Rice is a bit different from usual Stamina Debuffers, who are backliners. She instead goes Pace or Front. Typically if she\u2019s being used, it\u2019s to give your Front someone to compete with while also having debuffs. Her kit is good but not special, and her debuff isn\u2019t consistent in Team Trials since someone needs to become rushed.",
+        "innate_distance": [],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": null,
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Stamina",
+            "effect": "-3%",
+            "note": "usually only one enemy"
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Sakura Bakushin O",
+        "base_name": "Sakura Bakushin O",
+        "variant": "Original",
+        "description": "Bakushin\u2019s Staggering Lead gold is pretty much impossible to activate as a normal Front Runner, you don\u2019t have to awaken her all the way to potential lv5. Since she has Pace Chaser Straightaways and Countermeasure, it\u2019s better to just make her a Pace Chaser. Her unique skill is also more difficult to activate as a Front Runner. Turbo Sprint is a great skill for Sprints, though other umas can get the gold from her card.",
+        "innate_distance": [
+            "Sprint"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": "Pace Chaser",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Sprint",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": "Sprint"
+            }
+        ]
+    },
+    {
+        "name": "Seiun Sky",
+        "base_name": "Seiun Sky",
+        "variant": "Original",
+        "description": "Seiun Sky revolutionised Fronts with her unique. In basically every Medium and Mile track as well as some others, Fronts will want to use her as a parent. Even some Paces want her unique. However, she herself is very lacking. She doesn\u2019t have the skills required to keep up with the other Fronts and won\u2019t be able to use her unique. However, if Fronts are bad on a track, she can be good. In a Pace meta, Seiun is generally the only Front that can actually compete with them, as long as there aren\u2019t any other Fronts around to ruin her day.",
+        "innate_distance": [
+            "Medium",
+            "Mile"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "2",
+            "distance": null,
+            "style": "Front Runner"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Silence Suzuka",
+        "base_name": "Silence Suzuka",
+        "variant": "Original",
+        "description": "Suzuka is used for her Runaway ability, once that\u2019s introduced. In Team Trials, this means she has an extra gold skill. Concentration is also a great skill in Team Trials since it gets you more good start bonuses. In CM, she\u2019s used often, as Front Runners are frequently strong and a Runaway makes it much harder for Front Runners to win. It also serves as a way to buff your Pace Chasers. When the spurt is on the final corner, her Unrestrained skill can help her win. Her inherited unique basically only works on other Runaway and there are better options.",
+        "innate_distance": [
+            "Mile",
+            "Medium"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Mile",
+            "style": "Front Runner"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "5",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Smart Falcon",
+        "base_name": "Smart Falcon",
+        "variant": "Original",
+        "description": "Smart Falcon is the best Dirt uma on release, but later, is generally outclassed by Copano Rickey. Still, even after Rickey\u2019s release, she can still hold her own. There are certain tracks where her unique can get accel during the spurt. All her skills are consistent for Team Trials. You\u2019re likely to see Falcon or one of her alts in every Dirt CM forever. Her first alt is roughly the same strength as her. You could also raise her for Turf if you were particularly motivated, and she\u2019s capable at that for a while.",
+        "innate_distance": [
+            "Dirt"
+        ],
+        "innate_style": [
+            "Front Runner"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4 but bad",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Dirt",
+            "style": "Front Runner"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Front Runner",
+                "score": "5",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Special Week",
+        "base_name": "Special Week",
+        "variant": "Original",
+        "description": "Special Week is pretty plain. After the buff she receives, her unique has accel, but it requires you to pass someone, so it\u2019s hard to trigger early enough to be good. However, the Current Speed aspect of it means you\u2019ll always be getting a benefit. You can inherit it on backline umas. Everything is consistent for a Team Trials Pace Chaser.",
+        "innate_distance": [
+            "Long",
+            "Medium"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": "Late Surger",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": null,
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Special Week [Summer]",
+        "base_name": "Special Week",
+        "variant": "Summer",
+        "description": "Summer Spe has a boring kit, but it\u2019s overall decently strong. Both of her golds evolve into 4s duration ones, which is very good. Her unique is very easy to trigger and is a gold heal, making her easy to raise for Mid and Long. Inherited, it\u2019s only a white heal.",
+        "innate_distance": [
+            "Long",
+            "Medium"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Medium",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Super Creek",
+        "base_name": "Super Creek",
+        "variant": "Original",
+        "description": "Super Creek has a crazy amount of recovery in her kit. Her unique and evolved Maestro total to be nearly 3 golds worth. However, her unique is inconsistent, requiring her to be 3~4 in CM or 3~5 in Team Trials at a random point in the middle leg. If there end up being a lot of Front Runners / Pace Chasers it\u2019s difficult to trigger. After the buffs, it\u2019s a good heal when inherited, so she\u2019s sometimes used as a parent for Pace Chasers who want some safety vs debuffs. Pace Chasers often don\u2019t have good things to inherit, especially if it\u2019s not a Nishino track, so she\u2019s a good parent to have around.",
+        "innate_distance": [
+            "Medium",
+            "Long"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": "Long/Medium",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "4",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Super Creek [Halloween]",
+        "base_name": "Super Creek",
+        "variant": "Halloween",
+        "description": "Mummy Creek is a mandatory parent for Fronts and Paces whenever Pasa also is. However, all of those tracks are Short and Mile, which Creek has G in. So, she\u2019s not good as a racer herself. On Sprint tracks where Seiun doesn\u2019t work, Pasa and H.Creek are the mandatory parents. She can be used as a second Stamina Debuffer if you don\u2019t have Mayano Bride.",
+        "innate_distance": [
+            "Mile",
+            "Sprint"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": null,
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Stamina",
+            "effect": "-3%",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Symboli Rudolf",
+        "base_name": "Symboli Rudolf",
+        "variant": "Original",
+        "description": "Rudolf\u2019s evolutions mean that her unique and both golds are perfectly consistent, making her a great option for a Medium Team Trials. Though, one of those golds is Professor, which you get from the very popular Kitasan Black Speed card. If you regularly use Kitasan, she loses value and can be considered Team Trials 4 due to having a duplicated gold. Her unique is very consistent and decently strong for Late Surgers and End Closers. She can be a good parent when Dober and/or Ryan aren\u2019t good parents for the track, such as in Long Distance, or as a grandparent. As a Debuffer, Rudolf isn\u2019t desirable as she can\u2019t use her own card, which is the best card for Debuffers, so she can fill a hybrid role like Grass Wonder does. In CM she\u2019s just average, but being around Oguri\u2019s strength is still strong.",
+        "innate_distance": [
+            "Medium",
+            "Long"
+        ],
+        "innate_style": [
+            "Late Surger",
+            "End Closer"
+        ],
+        "lv2": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "2",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Medium",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "3",
+            "note": null
+        },
+        "debuffer": {
+            "type": "Speed",
+            "effect": "-0.25",
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Symboli Rudolf [Autumn Festival]",
+        "base_name": "Symboli Rudolf",
+        "variant": "Autumn Festival",
+        "description": "(Written after 2nd anni changes) Fes Rudolf is just\u2026 not very good. The gold green she has already gives speed as a white and it\u2019s very inconsistent in stadium, while her unique is a speed unique that triggers during or after final leg, which is not what you want. She actually used to be better before the 2nd anni changes, which added the phase>=2 condition to her unique.",
+        "innate_distance": [],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "2",
+            "distance": null,
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "2",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "TM Opera O",
+        "base_name": "TM Opera O",
+        "variant": "Original",
+        "description": "Early on, Opera\u2019s unique is very hard to trigger, but it gets buffed later. Opera has a heap of consistent skills for Team Trials. In CM, she can be strong when the spurt starts after the final corner starts and both of her evolutions are great. Her unique and Speed Star both trigger on the final corner. If they give her carryover, she\u2019s strong. Tracks that fit this are Tennosho Autumn and, later, Longchamp 2400m. Also keep in mind her Fall Triple Crown secret event both years, which gives all stats up and is affected by Race Bonus.",
+        "innate_distance": [
+            "Medium",
+            "Long"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Medium",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4+",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Taiki Shuttle",
+        "base_name": "Taiki Shuttle",
+        "variant": "Original",
+        "description": "Taiki\u2019s unique is very strong on certain tracks, and it gives acceleration, so she\u2019s a highly desirable parent. On tracks where she\u2019s good, her ult is paired with Nishino Flower\u2019s, taking up both parent slots. Because of this, if you don\u2019t have either of them, you should consider prioritising Taiki from daily legend races. However, her unique isn\u2019t consistent enough for Team Trials. Her golds both get better with buffs that come later, and then she becomes a strong racer in her own right, still usable today on the JP server.",
+        "innate_distance": [
+            "Dirt",
+            "Mile"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "2",
+            "style": "Front Runner",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "2",
+            "style": "Front Runner",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": "Mile",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "5",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "5",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Tokai Teio",
+        "base_name": "Tokai Teio",
+        "variant": "Original",
+        "description": "Early on, Tokai Teio is quite weak, but the evolutions and a buff to her unique saves her. She becomes a very strong uma in Medium distance. Her winrate in competitive matchmaking rivals NY Kitasan and Christmas Oguri in some CMs. As a parent, she\u2019s a consistent 0.25 speed. She also has strong Secret Events for winning the Triple Crown and the Spring Triple Crown.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "2",
+            "style": "Pace Chaser",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "3",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "5",
+            "distance": "Medium",
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "3",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "5",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Tokai Teio [Beyond the Horizon]",
+        "base_name": "Tokai Teio",
+        "variant": "Beyond the Horizon",
+        "description": "Red Teio is a little better than OG Oguri, but has nothing to make her exceptional. Everything is consistent for Stadium and her unique can be inherited on Pace Chasers for 0.25 speed. Two gold recoveries in Medium means you get to skimp on Stamina quite a bit. She has the same great secret events as normal Teio.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "1",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": null,
+            "distance": null,
+            "style": "Pace Chaser"
+        },
+        "parent": {
+            "score": "3",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Tosen Jordan",
+        "base_name": "Tosen Jordan",
+        "variant": "Original",
+        "description": "Without evolutions, Tosen Jordan is terrible. With them, she\u2019s great. She\u2019s not top tier, but she gets a consistent gambling accel and a gold heal, both of which work either as Pace Chaser or Late Surger. You can use her anywhere you\u2019re willing to raise her aptitudes for.",
+        "innate_distance": [],
+        "innate_style": [
+            "Pace Chaser",
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": null,
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": null,
+            "distance": null,
+            "style": "Pace Chaser/Late Surger"
+        },
+        "parent": {
+            "score": "2",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Pace Chaser",
+                "score": "4",
+                "distance": null
+            },
+            {
+                "type": "Late Surger",
+                "score": "4",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Vodka",
+        "base_name": "Vodka",
+        "variant": "Original",
+        "description": "In CM, Vodka\u2019s Furious Feat evolution makes her a good gambler. If it triggers well she\u2019ll have a good chance to win. Pair it with other gambling skills like On Your Left!. In Team Trials, the 6 NPCs make it very hard to trigger. Her heal is consistent in both cases, though it can trigger too late before the buff. Her unique is a worse version of OG Oguri\u2019s.",
+        "innate_distance": [
+            "Mile"
+        ],
+        "innate_style": [
+            "Late Surger",
+            "Pace Chaser"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "5",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": "Late Surger",
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "4",
+            "distance": "Mile",
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    },
+    {
+        "name": "Winning Ticket",
+        "base_name": "Winning Ticket",
+        "variant": "Original",
+        "description": "Winning Ticket has nothing exciting in her kit. A speed unique on the final straight combined with one useless and one decent gold. At least the golds are consistent. Her unique might be more consistent in Mile, but she starts with Mile F. \u201cblocked_side\u201d final corner uniques are difficult ever since First Anniversary added the spreading on final corner. She\u2019s fine, but there are many better umas.",
+        "innate_distance": [
+            "Medium"
+        ],
+        "innate_style": [
+            "Late Surger"
+        ],
+        "lv2": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv3": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv4": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "lv5": {
+            "score": "4",
+            "style": null,
+            "track_type": null,
+            "special_score": null,
+            "special_style": null
+        },
+        "trials": {
+            "score": "3",
+            "distance": null,
+            "style": "Late Surger"
+        },
+        "parent": {
+            "score": "1",
+            "note": null
+        },
+        "debuffer": {
+            "type": null,
+            "effect": null,
+            "note": null
+        },
+        "style_reviews": [
+            {
+                "type": "Late Surger",
+                "score": "3",
+                "distance": null
+            }
+        ]
+    }
+]

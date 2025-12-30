@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UMA Ratings Viewer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>UMA Ratings</h1>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Search Uma...">
+            </div>
+        </header>
+
+        <div class="filters-section">
+            <div class="filter-group">
+                <label>Distance</label>
+                <div class="dropdown-filter" data-filter="distance">
+                    <button class="dropdown-btn">Select <span class="count"></span></button>
+                    <div class="dropdown-content">
+                        <label><input type="checkbox" value="Sprint"> Sprint</label>
+                        <label><input type="checkbox" value="Mile"> Mile</label>
+                        <label><input type="checkbox" value="Medium"> Medium</label>
+                        <label><input type="checkbox" value="Long"> Long</label>
+                        <label><input type="checkbox" value="Dirt"> Dirt</label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-group">
+                <label>Style</label>
+                <div class="dropdown-filter" data-filter="style">
+                    <button class="dropdown-btn">Select <span class="count"></span></button>
+                    <div class="dropdown-content">
+                        <label><input type="checkbox" value="Front Runner"> Front Runner</label>
+                        <label><input type="checkbox" value="Pace Chaser"> Pace Chaser</label>
+                        <label><input type="checkbox" value="Late Surger"> Late Surger</label>
+                        <label><input type="checkbox" value="End Closer"> End Closer</label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-group">
+                <label>Trials</label>
+                <div class="dropdown-filter" data-filter="trials">
+                    <button class="dropdown-btn">Select <span class="count"></span></button>
+                    <div class="dropdown-content">
+                        <label><input type="checkbox" value="5"> 5</label>
+                        <label><input type="checkbox" value="4"> 4</label>
+                        <label><input type="checkbox" value="3"> 3</label>
+                        <label><input type="checkbox" value="2"> 2</label>
+                        <label><input type="checkbox" value="1"> 1</label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-group">
+                <label>Parent</label>
+                <div class="dropdown-filter" data-filter="parent">
+                    <button class="dropdown-btn">Select <span class="count"></span></button>
+                    <div class="dropdown-content">
+                        <label><input type="checkbox" value="5"> 5</label>
+                        <label><input type="checkbox" value="4"> 4</label>
+                        <label><input type="checkbox" value="3"> 3</label>
+                        <label><input type="checkbox" value="2"> 2</label>
+                        <label><input type="checkbox" value="1"> 1</label>
+                    </div>
+                </div>
+            </div>
+            <div class="filter-group">
+                <label>Debuff</label>
+                <select id="filter-debuff">
+                    <option value="">All</option>
+                    <option value="yes">Has Debuff</option>
+                    <option value="no">No Debuff</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>Owned</label>
+                <select id="filter-owned">
+                    <option value="">All</option>
+                    <option value="yes">Owned</option>
+                    <option value="no">Not Owned</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label>In Team</label>
+                <select id="filter-in-team">
+                    <option value="">All</option>
+                    <option value="yes">In Team</option>
+                    <option value="no">Not In Team</option>
+                </select>
+            </div>
+
+            <button id="clear-filters" class="clear-btn">Clear Filters</button>
+        </div>
+
+
+
+
+        <div class="team-planner" id="team-planner">
+            <div class="team-header">
+                <h2 class="section-title">Team Planner</h2>
+                <div class="data-controls">
+                    <button onclick="exportData()" class="data-btn">Export Data</button>
+                    <button onclick="importData()" class="data-btn">Import Data</button>
+                </div>
+            </div>
+            <div class="team-categories">
+                <div class="team-category" data-cat="Sprint">
+                    <h3>Sprint</h3>
+                    <div class="slots" id="slots-Sprint"></div>
+                </div>
+                <div class="team-category" data-cat="Mile">
+                    <h3>Mile</h3>
+                    <div class="slots" id="slots-Mile"></div>
+                </div>
+                <div class="team-category" data-cat="Medium">
+                    <h3>Medium</h3>
+                    <div class="slots" id="slots-Medium"></div>
+                </div>
+                <div class="team-category" data-cat="Long">
+                    <h3>Long</h3>
+                    <div class="slots" id="slots-Long"></div>
+                </div>
+                <div class="team-category" data-cat="Dirt">
+                    <h3>Dirt</h3>
+                    <div class="slots" id="slots-Dirt"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="table-container">
+            <table id="ratings-table">
+                <thead>
+                    <tr>
+                        <th data-sort="owned" class="sortable">Own</th>
+                        <th>Team</th>
+                        <th data-sort="name" class="sortable">Uma</th>
+                        <th data-sort="variant" class="sortable">Variant</th>
+                        <th>Distances</th>
+                        <th>Styles</th>
+                        <th>Ratings</th>
+                        <th data-sort="team_trials" class="sortable">Trials</th>
+                        <th data-sort="parent" class="sortable">Parent</th>
+                        <th data-sort="debuffer" class="sortable">Debuff</th>
+                        <th data-sort="lv2" class="sortable">Awake 2</th>
+                        <th data-sort="lv3" class="sortable">Awake 3</th>
+                        <th data-sort="lv4" class="sortable">Awake 4</th>
+                        <th data-sort="lv5" class="sortable">Awake 5</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Data will be injected here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

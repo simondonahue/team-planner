@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# Project-specific
+backup/
+Trash/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+nul
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
